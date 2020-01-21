@@ -2,8 +2,8 @@
 
 **1. SurfStore**
 
-A networked file storage service based on Dropbox that syncs files to and from the cloud. (Python)
+A network file storage service implemented in Python that enable client to synchronize files from and to the server.
 
 **2. SurfStore_RAFT**
 
-Implementation of RAFT protocol to ensure fault-tolerant SurfStore metadata across replicated machines. (Python)
+RAFT consensus algorithm implemented in Python to make replication of SurfStore fault-tolerable.
